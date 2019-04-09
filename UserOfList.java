@@ -25,7 +25,7 @@ public class UserOfList {
              if( elemIndex == 10) System.out.println( "expansion expected");
 
              list.add( -elemIndex);
-             System.out.println( "number of elements: " + list.size() );
+              System.out.println( "number of elements: " + list.size() );
          }
          System.out.println("result of second population: " + list.size() + " elements:");
          System.out.println( list + System.lineSeparator());

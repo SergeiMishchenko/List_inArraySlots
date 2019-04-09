@@ -47,7 +47,7 @@ public class List_inArraySlots {
       public boolean add( int value) {
 		if(elementsFilled == list.length) //checks if there slots that are open
             expand();
-        list[elementsFilled++] = value;
+        list[elementsFilled++] =  value;
         return true;
       }
 

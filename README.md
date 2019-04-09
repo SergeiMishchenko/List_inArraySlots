@@ -17,7 +17,7 @@ by the values of the integers stored in the list. That design decision
 would require reserving one integer value as a marker value, which would
 keep the user-programmer from storing that value in the list.
 Therefore, the "marker value" technique is banned for our purposes here.
-(In other contexts, marker values are fine design choices.)
+(In other contexts,  marker values are fine design choices.)
 ###Project Title: List_inArraySlots
 ####Members: Sergei Mishchenko, Kyra Gunluk (partner)
 
